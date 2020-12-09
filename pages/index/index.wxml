@@ -1,0 +1,3 @@
+<view class="container">
+  <button bindtap="avgEvent">求每个类型的平均值</button>
+</view>
